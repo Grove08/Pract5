@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 задача", "Lab5\5 задача.csproj", "{EE419228-CCEE-4D58-A8E0-92FC71D65BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 задача", "FindMax\2 задача.csproj", "{31992E9D-50E1-4FEB-A5A0-B341F1639041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 Задача", "Sorting\1 Задача.csproj", "{033DE4B3-F575-4152-B3A7-B3EA4E48D64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE419228-CCEE-4D58-A8E0-92FC71D65BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE419228-CCEE-4D58-A8E0-92FC71D65BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE419228-CCEE-4D58-A8E0-92FC71D65BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE419228-CCEE-4D58-A8E0-92FC71D65BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31992E9D-50E1-4FEB-A5A0-B341F1639041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31992E9D-50E1-4FEB-A5A0-B341F1639041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31992E9D-50E1-4FEB-A5A0-B341F1639041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31992E9D-50E1-4FEB-A5A0-B341F1639041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033DE4B3-F575-4152-B3A7-B3EA4E48D64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033DE4B3-F575-4152-B3A7-B3EA4E48D64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033DE4B3-F575-4152-B3A7-B3EA4E48D64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033DE4B3-F575-4152-B3A7-B3EA4E48D64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5ADEF7-2E44-4AC5-B162-1F05166D63C3}
+	EndGlobalSection
+EndGlobal
